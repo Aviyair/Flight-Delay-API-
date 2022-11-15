@@ -1,6 +1,6 @@
 # Flight-Delay-API-
-<a href="https://aviyair.com/flight-delay-api/" rel="nofollow"> Aviyair Flight Delay API</a> is the right data delivery tool for you to rapidly track airline delays and flight cancellations via user-friendly JSON REST API. You get a detailed account of the real-time global flight schedules data that includes arrival and departure times, departure and arrival airports with the given gates on which flights are scheduled and terminals, flight numbers with respective ICAO and IATA airport codes. By using the Global Flight Schedules API, you obtain specific fligt data focused on the live flights being tracked every minute as en-routed to the airline destination, scheduled, landed, delayed, diverted, cancelled or redirected. The global flight schedules data is a valuable flight data solution to your ongoing projects since Aviyair covers thousands of live flights operated every minute. The data on global flight schedules is available as a JSON REST API, but also as downloadable databases in CSV and Excel files. Additionally, Aviyair Global Flight Schedules API can be requested in several programming languages: Javascript, JQuery, VueJS, Angular, JAVA, PHP, NodeJS, Python, Go, Ruby, C#, R, Strest, Rust, Swift and Scala. 
-The users of Aviyair's Global Flight Schedules API start from individuals to small, medium-sized and big businesses. They are freelance developers, travel agencies,insurance companies, government agencies related to aviation and even airports themselves. 
+<a href="https://aviyair.com/flight-delay-api/" rel="nofollow"> Aviyair Flight Delay API</a> is the right data delivery tool for you to rapidly track airline delays and flight cancellations via user-friendly JSON REST API.The global flight delay data is a valuable flight data solution to your ongoing projects since Aviyair covers thousands of global live and historical flights operated every minute. By using the Flight Delay API you can track and analyze the global flight traffic. You are empowered to discover aviation patterns occurring with flight delays and cancellations of one or more airlines operating across continents and see which of their airline routes are frequently affected. The data on flight delays is available as a JSON REST API, but also as downloadable databases in CSV and Excel files. Additionally, Aviyair Flight Delay API can be requested in several programming languages: Javascript, JQuery, VueJS, Angular, JAVA, PHP, NodeJS, Python, Go, Ruby, C#, R, Strest, Rust, Swift and Scala. 
+The users of Aviyair's Flight Delay API start from individuals to small, medium-sized and big businesses. They are freelance developers, travel agencies,insurance companies, government agencies related to aviation and even airports themselves. 
 As users have different global flight schedules data needs, Aviyair has developed three main subscription plans. For the moment, there is no free trial provided. However,the subscription plans are discounted for the first month of usage. For specific user cases and unlimitied flight data, custom subscriptions are offered.<a href="https://aviyair.com/pricing-subscription-plans/" rel="nofollow"> Sign up for an API key</a>
 
 <h2> Flight Delay Data Delivery</h2>
@@ -66,22 +66,6 @@ In case that you encounter a flight data issue or experience difficulties subscr
 
 <h2>Legal</h2>
 <p> The use of Aviyair proprietary data and API database is subject to  <a href="https://aviyair.com/terms-and-conditions/"> Terms &amp; Conditions.</a></p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
